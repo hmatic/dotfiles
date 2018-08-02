@@ -1,0 +1,10 @@
+[user]
+	name = Hrvoje Matic
+	email = web.hmatic@gmail.com
+[core]
+	editor = code
+[merge]
+    tool = vscode
+[mergetool "vscode"]
+    cmd = code --wait $MERGED
+    

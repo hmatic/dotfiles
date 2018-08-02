@@ -1,0 +1,23 @@
+{ 
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    
+
+     // If not specified searches for 'rubocop' executable available on PATH (default and recommended)
+    "ruby.rubocop.executePath": "C:\\rubocop\\",
+    
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "Fira Code, Consolas",
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "workbench.colorCustomizations": {
+      "editorWarning.foreground": "#ff0000",
+      "editorInfo.foreground": "#ff0"    
+    },
+    "files.eol": "\n"
+  }
